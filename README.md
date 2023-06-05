@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahaputrailhamawal
 - 👀 I’m interested in Computer Vision, Healthcare system based on Artificial Intelligence, and Solution Architect
-- 🌱 I’m currently learning Go and Microservices
+- 🌱 I’m currently learning GoLang and Microservices
 - 📫 If you are interested and want to collaborate with me please DM my linkedin on https://www.linkedin.com/in/mahaputra-ilham-awal/
 
 <!---
