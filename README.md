@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahaputrailhamawal
-- 👀 I’m interested in Computer Vision, Healthcare system based on Artificial Intelligence, and Cloud Infra
+- 👀 I’m interested in Computer Vision, Healthcare systems based on Artificial Intelligence, and Cloud Infra
 - 🌱 I’m currently learning GoLang and Microservices
-- 📫 If you are interested and want to collaborate with me please DM my linkedin on https://www.linkedin.com/in/mahaputra-ilham-awal/
+- 📫 If you are interested and want to collaborate with me please DM my LinkedIn on https://www.linkedin.com/in/mahaputra-ilham-awal/
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/mahaputrailhamawal?ext=activity)
 
