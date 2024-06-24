@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GoLang, K8S, Microservices and Blue Team Cyber Security.
 - 📫 If you are interested and want to collaborate with me please DM my LinkedIn on https://www.linkedin.com/in/mahaputra-ilham-awal/
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/mahaputrailhamawal?ext=activity)
+<!--- ![Leetcode Stats](https://leetcard.jacoblin.cool/mahaputrailhamawal?ext=activity) --->
 
 <!---
 mahaputrailhamawal/mahaputrailhamawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
